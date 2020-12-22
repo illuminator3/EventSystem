@@ -4,7 +4,7 @@
 
 ## Building
 
-Building the project is really easy. First you'll have to clone the repository: ``git clone https://github.com/illuminator3/VerifyTS`` after that's done building the project can be done by running ``gradle build ``.
+Building the project is really easy. First you'll have to clone the repository: ``git clone https://github.com/illuminator3/EventSystem`` after that's done building the project can be done by running ``gradle build ``.
 
 ## Dependency installation
 
@@ -83,7 +83,7 @@ You can contribute by creating an [issue](https://github.com/illuminator3/EventS
 
 ## License
 
-This project is licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/illuminator3/VerifyTS/blob/master/LICENSE) file for details
+This project is licensed under the Apache License 2.0 - see the [LICENSE](https://github.com/illuminator3/EventSystem/blob/master/LICENSE) file for details
 
 ### Permissions & Limitations
 
