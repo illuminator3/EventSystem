@@ -1,0 +1,10 @@
+### .gitignore
+
+## JetBrains
+.idea
+
+## Gradle
+.gradle
+**/build/
+!src/**/build/
+gradle
