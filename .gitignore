@@ -7,4 +7,3 @@
 .gradle
 **/build/
 !src/**/build/
-gradle
